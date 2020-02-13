@@ -1,0 +1,4 @@
+/mnt/c/Users/Utilisateur/CLionProjects/CIR2/QT/TP0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Utilisateur/CLionProjects/CIR2/QT/TP0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Utilisateur/CLionProjects/CIR2/QT/TP0/cmake-build-debug/CMakeFiles/TP0.dir
+/mnt/c/Users/Utilisateur/CLionProjects/CIR2/QT/TP0/cmake-build-debug/CMakeFiles/TP0_automoc.dir
