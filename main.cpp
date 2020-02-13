@@ -7,6 +7,7 @@
 #include <QColor>
 int main(int argc, char **argv)
 {
+      //coucou
       QApplication app (argc, argv);
       /*QPushButton button ("Hello world !");
       button.setToolTip("Click ici !");
